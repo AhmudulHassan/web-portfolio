@@ -1,0 +1,24 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: black;
+    
+}
+.highlight{
+    color: red ;
+}
+p{
+    color: black
+}
+.half_width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+
+}
+.half_width img{
+    width: 100%;
+}
